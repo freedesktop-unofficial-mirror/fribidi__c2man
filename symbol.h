@@ -1,4 +1,4 @@
-/* $Id: symbol.h,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: symbol.h,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  *
  * Definitions for a symbol table
  */

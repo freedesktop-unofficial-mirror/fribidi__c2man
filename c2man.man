@@ -1,4 +1,4 @@
-.\" $Id: c2man.man,v 1.1 2004-05-03 05:17:49 behdad Exp $
+.\" $Id: c2man.man,v 1.1.1.1 2004-05-03 05:17:49 behdad Exp $
 .de EX          \"Begin example
 .br
 .if \\$1 .ne \\$1

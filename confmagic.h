@@ -6,7 +6,7 @@
  * If you wish to get rid of this magic, remove this file and rerun metaconfig
  * without the -M option.
  *
- *  $Id: confmagic.h,v 1.1 2004-05-03 05:17:48 behdad Exp $
+ *  $Id: confmagic.h,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  */
 
 #ifndef _confmagic_h_

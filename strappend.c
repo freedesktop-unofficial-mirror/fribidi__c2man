@@ -1,4 +1,4 @@
-/* $Id: strappend.c,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: strappend.c,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  */
 #include "c2man.h"
 #include "strappend.h"

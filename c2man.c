@@ -1,4 +1,4 @@
-/* $Id: c2man.c,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: c2man.c,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  *
  * C Manual page generator.
  * Reads C source code and outputs manual pages.

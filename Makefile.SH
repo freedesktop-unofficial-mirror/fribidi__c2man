@@ -20,7 +20,7 @@ echo "Extracting Makefile (with variable substitutions)"
 : Protect any dollar signs and backticks that you do not want interpreted
 : by putting a backslash in front.  You may delete these comments.
 $spitshell >Makefile <<!GROK!THIS!
-# $Id: Makefile.SH,v 1.1 2004-05-03 05:17:48 behdad Exp $
+# $Id: Makefile.SH,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
 #
 # UNIX makefile for manual page generator
 # Note: any changes made here will be lost next time Configure is run!.

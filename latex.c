@@ -1,4 +1,4 @@
-/* $Id: latex.c,v 1.1 2004-05-03 05:17:49 behdad Exp $
+/* $Id: latex.c,v 1.1.1.1 2004-05-03 05:17:49 behdad Exp $
  * functions for LaTeX style output.
  */
 #include "c2man.h"

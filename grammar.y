@@ -1,4 +1,4 @@
-/* $Id: grammar.y,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: grammar.y,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  *
  * yacc grammar for C manual page generator
  * This was derived from the grammar given in Appendix A of

@@ -1,4 +1,4 @@
-/* $Id: manpage.h,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: manpage.h,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  * stuff to do with manual page outputing
  */
 #ifndef MANPAGE_H

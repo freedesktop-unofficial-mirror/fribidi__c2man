@@ -1,4 +1,4 @@
-/* $Id: symbol.c,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: symbol.c,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  *
  * Symbol table maintenance. Implements an abstract data type called
  * the symbol table.

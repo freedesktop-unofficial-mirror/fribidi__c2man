@@ -1,4 +1,4 @@
-/* $Id: output.h,v 1.1 2004-05-03 05:17:48 behdad Exp $
+/* $Id: output.h,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $
  * format-independant output interface.
  */
 #ifndef OUTPUT_H

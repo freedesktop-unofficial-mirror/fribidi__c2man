@@ -1,4 +1,4 @@
-/* $Id: enum.h,v 1.1 2004-05-03 05:17:48 behdad Exp $ */
+/* $Id: enum.h,v 1.1.1.1 2004-05-03 05:17:48 behdad Exp $ */
 #include "config.h"
 
 extern SymbolTable *enum_table;	/* enum symbol table */
